@@ -1,0 +1,41 @@
+team,date,opponent,gf,ga,result,goal_difference,result_clean,points
+Croatia,2026-03-31,br Brazil,1.0,3.0,L,-2.0,Loss,0
+Croatia,2026-03-26,co Colombia,2.0,1.0,W,1.0,Win,3
+Croatia,2025-11-17,me Montenegro,3.0,2.0,W,1.0,Win,3
+Croatia,2025-11-14,fo Faroe Islands,3.0,1.0,W,2.0,Win,3
+Croatia,2025-10-12,gi Gibraltar,3.0,0.0,W,3.0,Win,3
+Croatia,2025-10-09,cz Czechia,0.0,0.0,D,0.0,Draw,1
+Croatia,2025-09-08,me Montenegro,4.0,0.0,W,4.0,Win,3
+Croatia,2025-09-05,fo Faroe Islands,1.0,0.0,W,1.0,Win,3
+Croatia,2025-06-09,cz Czechia,5.0,1.0,W,4.0,Win,3
+Croatia,2025-06-06,gi Gibraltar,7.0,0.0,W,7.0,Win,3
+England,2026-03-31,jp Japan,0.0,1.0,L,-1.0,Loss,0
+England,2026-03-27,uy Uruguay,1.0,1.0,D,0.0,Draw,1
+England,2025-11-16,al Albania,2.0,0.0,W,2.0,Win,3
+England,2025-11-13,rs Serbia,2.0,0.0,W,2.0,Win,3
+England,2025-10-14,lv Latvia,5.0,0.0,W,5.0,Win,3
+England,2025-10-09,wls Wales,3.0,0.0,W,3.0,Win,3
+England,2025-09-09,rs Serbia,5.0,0.0,W,5.0,Win,3
+England,2025-09-06,ad Andorra,2.0,0.0,W,2.0,Win,3
+England,2025-06-10,sn Senegal,1.0,3.0,L,-2.0,Loss,0
+England,2025-06-07,ad Andorra,1.0,0.0,W,1.0,Win,3
+Ghana,2026-05-22,mx Mexico,0.0,2.0,L,-2.0,Loss,0
+Ghana,2026-03-30,de Germany,1.0,2.0,L,-1.0,Loss,0
+Ghana,2026-03-27,at Austria,1.0,5.0,L,-4.0,Loss,0
+Ghana,2025-11-18,kr Korea Republic,0.0,1.0,L,-1.0,Loss,0
+Ghana,2025-11-14,jp Japan,0.0,2.0,L,-2.0,Loss,0
+Ghana,2025-10-12,km Comoros,1.0,0.0,W,1.0,Win,3
+Ghana,2025-10-08,cf CAR,5.0,0.0,W,5.0,Win,3
+Ghana,2025-09-08,ml Mali,1.0,0.0,W,1.0,Win,3
+Ghana,2025-09-04,td Chad,1.0,1.0,D,0.0,Draw,1
+Ghana,2025-03-24,mg Madagascar,3.0,0.0,W,3.0,Win,3
+Panama,2026-05-31,br Brazil,2.0,6.0,L,-4.0,Loss,0
+Panama,2026-03-31,za South Africa,2.0,1.0,W,1.0,Win,3
+Panama,2026-03-27,za South Africa,1.0,1.0,D,0.0,Draw,1
+Panama,2025-11-18,sv El Salvador,3.0,0.0,W,3.0,Win,3
+Panama,2025-11-13,gt Guatemala,3.0,2.0,W,1.0,Win,3
+Panama,2025-10-14,sr Suriname,1.0,1.0,D,0.0,Draw,1
+Panama,2025-10-10,sv El Salvador,1.0,0.0,W,1.0,Win,3
+Panama,2025-09-08,gt Guatemala,1.0,1.0,D,0.0,Draw,1
+Panama,2025-09-04,sr Suriname,0.0,0.0,D,0.0,Draw,1
+Panama,2025-06-24,jm Jamaica,4.0,1.0,W,3.0,Win,3
